@@ -11,7 +11,7 @@ const projectsData = [
     description: "Next.js portfolio with responsive design, advanced animations, and Tailwind CSS integration",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Shreyash991/Portfolio-NextJS",
     previewUrl: "/",
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     description: "Real-time chat app with secure messaging and Socket.io",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Shreyash991/Connecto_chat_app",
     previewUrl: "/",
   },
   {
@@ -29,7 +29,7 @@ const projectsData = [
     description: "Document editor with JWT auth and WYSIWYG editing.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Shreyash991/SkyWrite_Doc_Editor",
     previewUrl: "/",
   },
 ];
